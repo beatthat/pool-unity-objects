@@ -1,7 +1,7 @@
 {
   "name": "pool-unity-objects",
   "scope": "beatthat",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Object pools for unity objects (which need to be retained on scene/hidden etc)",
   "main": "index.js",
   "scripts": {
